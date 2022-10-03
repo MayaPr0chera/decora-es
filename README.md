@@ -33,3 +33,7 @@ head
 <p <b>Registre sua festa:</b>
 
 <i> Guarde as informações e fotos do seu evento para você relembrar quando quiser</i>
+
+<b> WhatsApp: (54) 991407875 </b>
+
+<b> Instagram: @maya_pr06 </b>
