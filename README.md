@@ -10,7 +10,7 @@ head
 
 <p <b>Como funciona:</b> 
 
-<b>Crie unma festa:</b> 
+<b>Crie uma festa:</b> 
 
 <i>Use nosso planejador para definir todos os detalhes da sua festa. É grátis!</i>
 
